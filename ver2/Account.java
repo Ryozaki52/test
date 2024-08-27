@@ -17,13 +17,7 @@ public class Account {
 		this.name = name;
 
 		}
-	// Constructor
-
-		public Account(double balance) {
-
-			this.balance = balance;
-
-			}
+	
 	// A "getter" method that simply returns the balance.
 
 	public double getBalance() {
